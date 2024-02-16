@@ -1,0 +1,57 @@
+--- Sample Summaries ---
+
+
+ Article #1
+Ground Truth: Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June .
+Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .
+Prediction  : Palestinian Authority officially becomes 123rd member of the International Criminal Court. The Palestinian Authority officially becomes the 123rd member of the International Criminal Court. The ICC opened preliminary examination into the situation in Palestinian territories. Palestinians signed the Rome Statute in January, paving the way for
+
+ Article #2
+Ground Truth: Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field .
+"She's a true miracle dog and she deserves a good life," says Sara Mellado, who is looking for a home for Theia .
+Prediction  : Theia was found dead in a field in Washington State. The dog was taken to a vet for help. Theia is a friendly white-and-black bully breed mix now named Theia. Theia is only one year old.
+
+ Article #3
+Ground Truth: Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister .
+He once participated in a takeover of the Iranian Consulate in San Francisco .
+The Iranian foreign minister tweets in English .
+Prediction  : Mohammad Javad Zarif is the Iranian foreign minister. He has been U.S. Secretary of State John Kerry's opposite number. He has been a key figure in securing a breakthrough in nuclear talks.
+
+ Article #4
+Ground Truth: 17 Americans were exposed to the Ebola virus while in Sierra Leone in March .
+Another person was diagnosed with the disease and taken to hospital in Maryland .
+National Institutes of Health says the patient is in fair condition after weeks of treatment .
+Prediction  : Five people were monitored for three weeks at Omaha, Nebraska, hospital. One of the five had a heart-related issue on Saturday. None of the five developed the deadly virus.
+
+ Article #5
+Ground Truth: Student is no longer on Duke University campus and will face disciplinary review .
+School officials identified student during investigation and the person admitted to hanging the noose, Duke says .
+The noose, made of rope, was discovered on campus about 2 a.m.
+Prediction  : Duke student admits hanging a noose from a tree near a student union. The student was identified during an investigation by campus police and the office of student affairs. Officials are still trying to determine if other people were involved.
+
+ Article #6
+Ground Truth: College-bound basketball star asks girl with Down syndrome to high school prom .
+Pictures of the two during the "prom-posal" have gone viral .
+Prediction  : Trey Moses and Ellie Meredith were prom-posals Thursday. Trey was originally going to take Ellie to Eastern's prom. Ellie's prom-posal was posted on Twitter.
+
+ Article #7
+Ground Truth: Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death .
+Organization claims that governments around the world are using the threat of terrorism to advance executions .
+The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% .
+Prediction  : Amnesty International says governments using death penalty to advance executions. It says governments are using the threat of terrorism to tackle real or imaginary threats. At least 607 people were executed around the world in 2014, compared to 778 in 2013. At least 2,466 people globally      
+
+ Article #8
+Ground Truth: Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment .
+In a petition for a restraining order, Getty had written he had a serious medical condition.
+Police say this is not a criminal matter at this time .
+Prediction  : Andrew Getty, 47, had "several health issues," detective says. He was one of three living sons of oil tycoon J. Paul Getty. Getty was thought to be the richest man in the world at the time of his death.
+
+ Article #9
+Ground Truth: Once a super typhoon, Maysak is now a tropical storm with 70 mph winds .
+It could still cause flooding, landslides and other problems in the Philippines .
+Prediction  : Tropical storm Maysak is now classified as a tropical storm. It has gained super typhoon status thanks to 150 mph winds. It has since lost a lot of steam as it has spun west in the Pacific Ocean.
+
+ Article #10
+Ground Truth: Bob Barker returned to host "The Price Is Right" on Wednesday .
+Barker, 91, had retired as host in 2007 .
+Prediction  : Bob Barker hosted the TV game show for 35 years before stepping down in 2007. The veteran stepped down in 2007 after stepping down from the show.

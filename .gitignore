@@ -1,0 +1,2 @@
+# Ignore model safetensors to avoid GitHub size limit
+outputs/t5_finetuned_xsum/model.safetensors
