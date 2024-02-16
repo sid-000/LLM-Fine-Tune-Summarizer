@@ -93,3 +93,4 @@ model.save_pretrained("outputs/t5_finetuned_xsum")
 tokenizer.save_pretrained("outputs/t5_finetuned_xsum")
 
 print("Model saved to outputs/t5_finetuned_xsum")
+"# Adjusted training config" 
