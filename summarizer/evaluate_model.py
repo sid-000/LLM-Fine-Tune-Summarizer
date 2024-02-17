@@ -61,3 +61,4 @@ plt.tight_layout()
 # Save the figure
 plt.savefig("outputs/rouge_scores.png")
 print("\nROUGE score plot saved to outputs/rouge_scores.png")
+# Added ROUGE and BLEU evaluation 
