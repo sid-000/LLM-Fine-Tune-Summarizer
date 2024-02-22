@@ -54,4 +54,5 @@ Prediction  : Tropical storm Maysak is now classified as a tropical storm. It ha
  Article #10
 Ground Truth: Bob Barker returned to host "The Price Is Right" on Wednesday .
 Barker, 91, had retired as host in 2007 .
-Prediction  : Bob Barker hosted the TV game show for 35 years before stepping down in 2007. The veteran stepped down in 2007 after stepping down from the show.
+Prediction  : Bob Barker hosted the TV game show for 35 years before stepping down in 2007. The veteran stepped down in 2007 after stepping down from the show.Title: AI eats your job 
+Summary: AI is automating industries and replacing jobs faster than expected. 
