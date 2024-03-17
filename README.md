@@ -16,14 +16,12 @@ summarizer/
 ├── evaluate.py # Script to generate predictions & ROUGE scores
 ├── config.json # Training configuration parameters
 
-notebooks/
-├── exploratory_summarization.ipynb # Data exploration & tokenization tests
-
 outputs/
+├── t5_finetuned_xsum
+├── rouge_scores.png # ROUGE evaluation chart or metrics image
 ├── sample_preds.txt # Example model predictions on test data
 
-assets/
-├── rouge_scores.png # ROUGE evaluation chart or metrics image
+
 
 
 ## 🚀 Getting Started
