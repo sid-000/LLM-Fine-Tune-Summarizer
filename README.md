@@ -28,38 +28,55 @@ outputs/
 
 ## 🚀 Getting Started
 
-1. Install dependencies:
+Follow these steps to set up and run the summarization pipeline:
+
+---
+
+### 📦 **Step 1: Install Dependencies**
+
 ```bash
 pip install -r requirements.txt
+```
 
-2. Run training:
+---
+
+### 🏋️‍♂️ **Step 2: Run Training**
+
+```bash
 python summarizer/train.py
+```
 
-3. Evaluate model:
+---
+
+### 📊 **Step 3: Evaluate the Model**
+
+```bash
 python summarizer/evaluate.py
+```
 
+---
 
-📈 **Sample ROUGE Scores**
+### 🧪 **Sample ROUGE Scores**
 
-ROUGE-1: 43.2
+- **ROUGE-1**: 43.2  
+- **ROUGE-2**: 20.1  
+- **ROUGE-L**: 40.7  
 
-ROUGE-2: 20.1
+---
 
-ROUGE-L: 40.7
+### 🔍 **Sample Input & Output**
 
+**Input:**  
+`"The government is planning to announce new tax reforms..."`  
 
-📝 **Sample Input & Output**
+**Generated Summary:**  
+`"The government is preparing new tax reforms."`
 
-Input: "The government is planning to announce new tax reforms..."
-Generated Summary: "The government is preparing new tax reforms."
+---
 
+### 🗓️ **Project Timeline**
 
+- **Originally Started:** Jan 2024  
+- **Finalized:** Mar 2024  
+- **Portfolio Update:** July 2025
 🗓️ **Project Timeline**
-
-Originally Started: Jan 2024
-
-Finalized: Mar 2024
-
-Portfolio Update: July 2025
-
-
