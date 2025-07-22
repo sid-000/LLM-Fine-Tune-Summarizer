@@ -11,17 +11,19 @@ This project fine-tunes a pretrained T5 model on the XSum dataset for abstractiv
 
 ## 📁 Project Structure
 
+<pre>
+📁 Project Structure
+
 summarizer/
-├── train.py # Fine-tuning script using Trainer API
-├── evaluate.py # Script to generate predictions & ROUGE scores
-├── config.json # Training configuration parameters
+├── train.py            # Fine-tuning script using Hugging Face Trainer API
+├── evaluate.py         # Script to evaluate model & generate ROUGE scores
+├── config.json         # Training configuration
 
 outputs/
-├── t5_finetuned_xsum
-├── rouge_scores.png # ROUGE evaluation chart or metrics image
-├── sample_preds.txt # Example model predictions on test data
-
-
+└── t5_finetuned_xsum/
+    ├── rouge_scores.png     # ROUGE evaluation metrics image
+    ├── sample_preds.txt     # Sample model predictions on test data
+</pre>
 
 
 ## 🚀 Getting Started
@@ -37,7 +39,7 @@ python summarizer/train.py
 python summarizer/evaluate.py
 
 
-📈 Sample ROUGE Scores
+📈 **Sample ROUGE Scores**
 
 ROUGE-1: 43.2
 
@@ -46,13 +48,13 @@ ROUGE-2: 20.1
 ROUGE-L: 40.7
 
 
-📝 Sample Input & Output
+📝 **Sample Input & Output**
 
 Input: "The government is planning to announce new tax reforms..."
 Generated Summary: "The government is preparing new tax reforms."
 
 
-🗓️ Project Timeline
+🗓️ **Project Timeline**
 
 Originally Started: Jan 2024
 
